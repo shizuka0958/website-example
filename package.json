@@ -1,0 +1,18 @@
+{
+  "name": "VUE-Web",
+  "version": "0.1.0",
+  "description": "To demo ft cowork with et",
+  "dependencies": {
+    "express": "~4.15.2",
+    "ip": "1.1.5",
+    "socket.io": "~2.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:springthelittle/vue_demo.git"
+  },
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "node server/index.js"
+  }
+}
